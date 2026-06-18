@@ -40,16 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-> Add these as image links in Markdown:
-
-- `https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&theme=tokyonight`
-- `https://github-readme-streak-stats.herokuapp.com/?user=bharshit63880&theme=tokyonight`
-- `https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&theme=tokyonight`
-
----
-
 ## 🎯 Current Focus
 
 - ⚙️ Microservices Architecture
@@ -62,9 +52,9 @@
 
 ## 📫 Connect
 
-- 💼 LinkedIn: Add your profile
-- 🌐 Portfolio: Add your website
-- 📧 Email: Add your email
+- 💼 LinkedIn: www.linkedin.com/in/harshit-bhardwaj-125324287
+- 🌐 Portfolio: https://harshit-fullstack.vercel.app
+- 📧 Email: bharshit63880@gmail.com
 
 <div align="center">
 
