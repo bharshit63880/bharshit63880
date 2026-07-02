@@ -23,10 +23,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,mongodb,postgres,redis,docker,kafka,git,github,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,javascript,mongodb,redis,docker,git,github,java" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-0A66C2?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
+
 
 ## 🚀 Featured Projects
 
