@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Harshit Bhardwaj
 
-### 🚀 Full Stack Developer | MERN | Microservices | Real-Time Systems
+### 🚀Full-Stack Developer | React, Node.js, TypeScript | Real-Time & Backend Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;React+%7C+Node.js+%7C+JavaScript;Microservices+%7C+Kafka+%7C+Docker;Always+Learning+Something+New" />
 
