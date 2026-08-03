@@ -39,134 +39,26 @@
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔥 **AllSpark** | Enterprise-grade **open-source** online coding platform featuring real-time code execution, distributed microservices architecture, Judge0 integration, Kafka event streaming, WebSocket-powered live updates, coding contests, role-based access control, automated test case evaluation, Dockerized deployment, scalable REST APIs, and a modular architecture designed for community contributions. | 🟣 Open Source • 🟢 Active Development |
+| 🛡️ **SatyaShield** | Privacy-first social impact platform supporting anonymous reporting, encrypted authentication, secure document uploads, role-based access control, complaint tracking, real-time notifications, audit logging, and scalable backend services focused on transparency and user privacy. |🟢 Active Development + 🟣 Open Source |
+| 🛕 **DigiPandit** | End-to-end digital religious services ecosystem enabling virtual & in-person Puja, Hawan, and astrology consultations. Features guided Hawan learning, audio-enabled Aarti library, integrated Puja Samagri store, secure online payments, real-time communication, and role-based dashboards for users, experts, and administrators.| 🟢 Production Ready|
+| 💬 **PulseChat** | Advanced real-time messaging platform with secure JWT authentication, one-to-one & group chats, typing indicators, online presence, media sharing, read receipts, Socket.IO powered communication, scalable backend architecture, and responsive cross-device user experience. | 🟢 Production Ready |
+| 🛒 **Sastify** | Feature-rich MERN e-commerce platform supporting authentication, advanced product search & filtering, shopping cart, wishlist, order tracking, payment gateway integration, inventory management, admin dashboard, image uploads, and scalable REST APIs. | 🟢 Production Ready |
+| 🏡 **RealStateX** | Modern real estate platform featuring property listings, advanced search & filtering, interactive property management, secure authentication, role-based dashboards, image galleries, location-based search, and a scalable architecture designed for future AI-powered property recommendations. | 🔵 Research & Planning + 🟡 In Development |
 
-## ⚡ AllSpark
+---
 
-**A distributed coding, contest and evaluation platform—not just an online compiler.**
+# 📌 Project Status
 
-The system is split into independent services for authentication, users, problems, submissions, contests, permissions, support and leaderboards. An API gateway coordinates REST and WebSocket traffic, Kafka carries domain events between services, Redis handles caching and live state, and Judge0-compatible execution evaluates submitted code.
-
-**Engineering depth**
-
-- OTP verification, password recovery and RBAC
-- Problem workspace, test cases and code submissions
-- Real-time contests and leaderboard updates
-- Support tickets and special-access approval workflows
-- Full local infrastructure through Docker Compose
-
-`React` `Node.js` `MongoDB` `Kafka` `Redis` `Docker` `Judge0`
-
-**Status:** Active development · Public deployment unavailable due to infrastructure requirements
-
-<a href="https://github.com/bharshit63880/AllSpark"><img src="https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View AllSpark source code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-## 💬 PulseChat
-
-**A private messaging workspace with explicit encryption and session-security boundaries.**
-
-Direct-message plaintext is encrypted in the browser before transport or persistence, while the API stores device public keys, ciphertext and metadata. The monorepo combines a React web client, Express API, shared typed contracts and an Expo mobile scaffold with real-time delivery and device-aware account security.
-
-**Engineering depth**
-
-- Browser-side encryption for direct messages and media
-- Presence, typing, reactions, unread counts and seen states
-- Rotating refresh tokens and revocable device sessions
-- Disappearing messages and local decrypted search
-- Redis-ready Socket.IO scaling and optimistic outbox retry
-
-`TypeScript` `React` `Express` `Socket.IO` `MongoDB` `Redis` `Web Crypto`
-
-**Status:** Active · Web deployment available · Calling remains in progress
-
-<a href="https://github.com/bharshit63880/PULSECHAT"><img src="https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View PulseChat source code" /></a>
-<a href="https://pulsechat-web-rose.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open PulseChat live demo" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🛕 DigiPandit
-
-**A Hindi-first multi-domain platform for spiritual services, guided rituals and commerce.**
-
-The product combines pandit and astrologer discovery, service booking, Kundali experiences, a guided Hawan system and a puja store in one role-aware application. Its backend separates authentication, bookings, experts, Hawans, orders, chat and payment domains behind protected APIs.
-
-**Engineering depth**
-
-- City/service-based expert discovery and bookings
-- Guided Hawan steps, materials, progress and safety checks
-- Store catalogue, cart, checkout and order management
-- JWT, email OTP, validation, rate limiting and role checks
-- User, pandit and administrator dashboards
-
-`React` `Redux Toolkit` `Express` `MongoDB Atlas` `Socket.IO` `PayU`
-
-**Status:** Active · Web and REST API deployed
-
-<a href="https://github.com/bharshit63880/DIGIPANDIT"><img src="https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View DigiPandit source code" /></a>
-<a href="https://digipandit-web.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open DigiPandit live demo" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-## 🛒 Sastify
-
-**A full marketplace workflow covering shopping, checkout and protected administration.**
-
-Beyond product display, Sastify implements customer identity, guest-cart synchronization, addresses, coupons, inventory-aware checkout, payment verification and order history. Administrative routes secure product, category, brand, banner, coupon, user and order mutations through authorization checks.
-
-**Engineering depth**
-
-- Search, filters, cart, wishlist and address ownership
-- OTP authentication and HTTP-only cookie sessions
-- COD plus configurable PayU/Razorpay payment flows
-- Idempotent payment verification and order replay handling
-- Role-protected catalogue, inventory and order administration
-
-`React` `Redux Toolkit` `Express` `MongoDB` `JWT` `PayU / Razorpay`
-
-**Status:** Active · Frontend deployment available
-
-<a href="https://github.com/bharshit63880/Sastify"><img src="https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Sastify source code" /></a>
-<a href="https://sastify-frontend.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Sastify live demo" /></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-## 🛡️ SatyaShield
-
-**A privacy-focused anti-dowry reporting and controlled case-coordination system.**
-
-SatyaShield is designed around data minimization and exact-resource authorization. Reporters can create cases without identity-linked accounts and receive one-time case credentials whose secrets are never stored directly. NGOs, investigators and administrators operate through separated roles, while encrypted evidence, complaint-scoped chat, immutable assessments and privacy-safe audit events support sensitive workflows with human oversight.
-
-**Engineering depth**
-
-- Identity-minimized intake with one-time, hashed case-access secrets
-- Deterministic safety triage and immutable human-review history
-- AES-GCM evidence encryption, integrity checks and access logging
-- Exact case-level permissions for reporters, NGOs, investigators and admins
-- Rotating sessions, HttpOnly cookies, CSRF protection, TOTP MFA and recovery codes
-- Realtime case chat, access revocation, escalation deadlines and internal SOS coordination
-
-`React` `Express` `MongoDB Atlas` `Socket.IO` `JWT` `TOTP` `AES-GCM` `Playwright`
-
-**Status:** Public demo for evaluation only · Not an emergency or live casework service
-
-<a href="https://github.com/bharshit63880/SatyaShield"><img src="https://img.shields.io/badge/SOURCE_CODE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View SatyaShield source code" /></a>
-<a href="https://satya-shield-client.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open SatyaShield public demo" /></a>
-
-</td>
-</tr>
-</table>
+| Status | Meaning |
+|---------|---------|
+| 🟣 Open Source | Public repository with community contributions welcome. |
+| 🟢 Active Development | New features and continuous improvements are being developed. |
+| 🟢 Production Ready | Stable and deployment-ready application. |
+| 🟡 In Development | Core modules are under active implementation and testing. |
+| 🔵 Research & Planning | Architecture, feature design, and technology evaluation are in progress. |
 
 ---
 
