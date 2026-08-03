@@ -46,7 +46,7 @@
 | 🛒 **Sastify** | Feature-rich MERN e-commerce platform supporting authentication, advanced product search & filtering, shopping cart, wishlist, order tracking, payment gateway integration, inventory management, admin dashboard, image uploads, and scalable REST APIs. | 🟢 Production Ready |
 | 🏡 **RealStateX** | Modern real estate platform featuring property listings, advanced search & filtering, interactive property management, secure authentication, role-based dashboards, image galleries, location-based search, and a scalable architecture designed for future AI-powered property recommendations. | 🔵 Research & Planning |
 | 🛕 **DigiPandit** | End-to-end digital religious services ecosystem enabling virtual & in-person Puja, Hawan, and astrology consultations. Features guided Hawan learning, audio-enabled Aarti library, integrated Puja Samagri store, secure online payments, real-time communication, and role-based dashboards for users, experts, and administrators.| 🟢 Production Ready|
-| 🛡️ **SatyaShield** | Privacy-first social impact platform supporting anonymous reporting, encrypted authentication, secure document uploads, role-based access control, complaint tracking, real-time notifications, audit logging, and scalable backend services focused on transparency and user privacy. | 🟡 In Development |
+| 🛡️ **SatyaShield** | Privacy-first social impact platform supporting anonymous reporting, encrypted authentication, secure document uploads, role-based access control, complaint tracking, real-time notifications, audit logging, and scalable backend services focused on transparency and user privacy. |🟢 Active Development  |
 
 ---
 
