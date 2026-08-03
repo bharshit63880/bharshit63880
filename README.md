@@ -1,198 +1,90 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Harshit Bhardwaj — Full Stack Developer" />
+# 👋 Hi, I'm Harshit Bhardwaj
 
-<br/>
+### 🚀 Full Stack Developer | MERN | Microservices | Real-Time Systems
 
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-11111B?style=for-the-badge&logoColor=C084FC&labelColor=11111B&color=8B5CF6" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harshit-bhardwaj-125324287"><img src="https://img.shields.io/badge/LINKEDIN-11111B?style=for-the-badge&logoColor=C084FC&labelColor=11111B&color=8B5CF6" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bharshit63880@gmail.com"><img src="https://img.shields.io/badge/EMAIL-11111B?style=for-the-badge&logoColor=C084FC&labelColor=11111B&color=8B5CF6" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;React+%7C+Node.js+%7C+JavaScript;Microservices+%7C+Kafka+%7C+Docker;Always+Learning+Something+New" />
 
 </div>
 
-<br/>
+---
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+# 💫 About Me
 
-## About / the builder behind the systems
+- 🔭 Building scalable full-stack applications with modern web technologies.
+- 🚀 Exploring distributed systems, microservices, and event-driven architectures.
+- 🌱 Currently learning System Design, Cloud Computing, and DevOps.
+- 💻 Passionate about crafting high-performance backend systems and intuitive frontend experiences.
+- 🤖 Interested in AI-powered applications and intelligent automation.
+- 📍 Jhansi, Uttar Pradesh, India.
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<img src="./assets/profile-card.svg" width="100%" alt="Harshit profile card" />
-</td>
-<td width="65%" valign="top">
+---
 
-### I turn complex ideas into dependable products.
+# 🛠️ Tech Stack
 
-I’m a full-stack developer focused on the space where thoughtful interfaces meet resilient backend systems. I care about the invisible details: clean boundaries, predictable data flow, secure APIs, and experiences that feel effortless.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,mongodb,redis,docker,git,github,java,tailwind,vscode,postman" />
+</p>
 
-| PRINCIPLE | HOW I WORK |
-|:--|:--|
-| **Problem solving** | Break ambiguity into small, testable decisions. |
-| **Clean architecture** | Build boundaries that let products evolve safely. |
-| **Backend depth** | Design secure APIs, events, queues, and real-time flows. |
-| **Frontend craft** | Make fast, accessible interfaces with intentional detail. |
-| **System thinking** | Balance reliability, scale, cost, and developer experience. |
-| **Learning mindset** | Study deeply, ship often, and refine from feedback. |
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-0A66C2?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+# 🚀 Featured Projects
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔥 **AllSpark** | Enterprise-grade **open-source** online coding platform featuring real-time code execution, distributed microservices architecture, Judge0 integration, Kafka event streaming, WebSocket-powered live updates, coding contests, role-based access control, automated test case evaluation, Dockerized deployment, scalable REST APIs, and a modular architecture designed for community contributions. | 🟣 Open Source • 🟢 Active Development |
+| 🛡️ **SatyaShield** | Privacy-first social impact platform supporting anonymous reporting, encrypted authentication, secure document uploads, role-based access control, complaint tracking, real-time notifications, audit logging, and scalable backend services focused on transparency and user privacy. |🟢 Active Development + 🟣 Open Source |
+| 🛕 **DigiPandit** | End-to-end digital religious services ecosystem enabling virtual & in-person Puja, Hawan, and astrology consultations. Features guided Hawan learning, audio-enabled Aarti library, integrated Puja Samagri store, secure online payments, real-time communication, and role-based dashboards for users, experts, and administrators.| 🟢 Production Ready|
+| 💬 **PulseChat** | Advanced real-time messaging platform with secure JWT authentication, one-to-one & group chats, typing indicators, online presence, media sharing, read receipts, Socket.IO powered communication, scalable backend architecture, and responsive cross-device user experience. | 🟢 Production Ready |
+| 🛒 **Sastify** | Feature-rich MERN e-commerce platform supporting authentication, advanced product search & filtering, shopping cart, wishlist, order tracking, payment gateway integration, inventory management, admin dashboard, image uploads, and scalable REST APIs. | 🟢 Production Ready |
+| 🏡 **RealStateX** | Modern real estate platform featuring property listings, advanced search & filtering, interactive property management, secure authentication, role-based dashboards, image galleries, location-based search, and a scalable architecture designed for future AI-powered property recommendations. | 🔵 Research & Planning + 🟡 In Development |
 
-## Stack / tools chosen for the problem
+---
 
-<img src="./assets/stack.svg" width="100%" alt="Frontend, backend, database, cloud, DevOps, testing, and tools" />
+# 📌 Project Status
 
-<br/>
+| Status | Meaning |
+|---------|---------|
+| 🟣 Open Source | Public repository with community contributions welcome. |
+| 🟢 Active Development | New features and continuous improvements are being developed. |
+| 🟢 Production Ready | Stable and deployment-ready application. |
+| 🟡 In Development | Core modules are under active implementation and testing. |
+| 🔵 Research & Planning | Architecture, feature design, and technology evaluation are in progress. |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
-## Selected work / systems with a point of view
+# 🎯 Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- ⚙️ Designing scalable Microservices Architectures
+- 🚀 Building High-performance REST APIs
+- ☁️ Cloud Computing & DevOps
+- 🤖 AI Integrations & Automation
+- 🔐 Authentication, Security & RBAC
+- 📊 Distributed Systems & Event-Driven Architecture
 
-### 01 — AllSpark
-**Distributed coding platform**
+---
 
-Microservices-based platform for secure code execution, live contests, automated judging, and real-time leaderboards.
+# 📫 Connect
 
-`Node.js` `Kafka` `Redis` `MongoDB` `Docker` `Judge0`
+- 💼 **LinkedIn:** www.linkedin.com/in/harshit-bhardwaj-125324287
+- 🌐 **Portfolio:** https://harshit-fullstack.vercel.app
+- 📧 **Email:** bharshit63880@gmail.com
 
-**Architecture** Event-driven microservices<br/>
-**Standout** Live evaluation + contest streams<br/>
-**Status** Active development · High complexity
-
-<a href="https://github.com/bharshit63880/AllSpark"><strong>VIEW SOURCE →</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 02 — PulseChat
-**Secure real-time communication**
-
-Encrypted direct and group messaging with verified accounts, media delivery, presence, and offline-first flows.
-
-`TypeScript` `Socket.IO` `Node.js` `MongoDB` `JWT`
-
-**Architecture** Real-time client/server<br/>
-**Standout** Encrypted, resilient delivery<br/>
-**Status** Production · High complexity
-
-<a href="https://github.com/bharshit63880/PULSECHAT"><strong>VIEW SOURCE →</strong></a> · <a href="https://pulsechat-web-rose.vercel.app"><strong>LIVE DEMO ↗</strong></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 — DigiPandit
-**Spiritual services marketplace**
-
-Trusted booking ecosystem connecting users with verified pandits and astrology experts for online and offline services.
-
-`React` `Node.js` `Express` `MongoDB` `Payments`
-
-**Architecture** Marketplace platform<br/>
-**Standout** Multi-role service workflow<br/>
-**Status** Production ready · Advanced
-
-<a href="https://github.com/bharshit63880/DIGIPANDIT"><strong>VIEW SOURCE →</strong></a> · <a href="https://digipandit-web.vercel.app"><strong>LIVE DEMO ↗</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 — Sastify
-**Modern commerce experience**
-
-Responsive MERN storefront with product discovery, filtering, secure accounts, cart flows, and efficient state handling.
-
-`React` `Tailwind` `Node.js` `Express` `MongoDB`
-
-**Architecture** Component-driven MERN<br/>
-**Standout** Fast product discovery<br/>
-**Status** Production ready · Advanced
-
-<a href="https://github.com/bharshit63880/Sastify"><strong>VIEW SOURCE →</strong></a> · <a href="https://sastify-frontend.vercel.app"><strong>LIVE DEMO ↗</strong></a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 05 — SatyaShield
-**Privacy-first social impact platform**
-
-Protected anti-dowry reporting with secure evidence workflows, role-based case coordination, NGO routing, real-time chat, and internal SOS support.
-
-`React` `Node.js` `MongoDB` `Socket.IO` `RBAC` · **Service architecture** · **Privacy-first workflows** · **Active development** · **High complexity**
-
-<a href="https://github.com/bharshit63880/SatyaShield"><strong>VIEW SOURCE →</strong></a> · <a href="https://satya-shield-client.vercel.app"><strong>LIVE DEMO ↗</strong></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/status.svg" width="100%" alt="Project status dashboard" />
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## Now / deliberate growth in public
-
-<img src="./assets/terminal.svg" width="100%" alt="Current focus terminal" />
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## Signal / a quiet look at the work
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&hide_border=true&bg_color=09090F&title_color=C084FC&text_color=B8B8C5&icon_color=8B5CF6&ring_color=A855F7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&hide_border=true&bg_color=09090F&title_color=8B5CF6&text_color=555566&icon_color=A855F7" alt="GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&hide_border=true&bg_color=09090F&title_color=C084FC&text_color=B8B8C5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&hide_border=true&bg_color=09090F&title_color=8B5CF6&text_color=555566" alt="Most used languages" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharshit63880&bg_color=09090F&color=B8B8C5&line=8B5CF6&point=C084FC&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 <div align="center">
 
-## Let’s build something remarkable.
+### 💻 Passionate about building software that solves real-world problems.
 
-Have an ambitious product, a hard systems problem, or an idea worth shipping? I’m open to thoughtful collaborations and full-stack opportunities.
-
-<br/>
-
-<a href="mailto:bharshit63880@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-8B5CF6?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" alt="Start a conversation" /></a>
-
-<br/><br/>
-
-<sub>“Build with clarity. Scale with intent.”</sub>
-
-<img src="./assets/footer.svg" width="100%" alt="Harshit Bhardwaj footer mark" />
+**Thank you for visiting my profile. I appreciate your time and look forward to connecting! ⭐**
 
 </div>
