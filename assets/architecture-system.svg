@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#0B1025"/><stop offset="1" stop-color="#050816"/></linearGradient>
+  <filter id="glow"><feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#7C3AED" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1400" height="520" rx="26" fill="url(#bg)"/>
+<text x="700" y="60" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#F8FAFC">How I Design Systems</text>
+<g font-family="Arial" text-anchor="middle">
+  <g transform="translate(470,95)" filter="url(#glow)">
+    <rect width="460" height="70" rx="18" fill="#111827" stroke="#7C3AED"/>
+    <text x="230" y="43" font-size="23" fill="#F8FAFC">React + TypeScript Frontend</text>
+  </g>
+  <path d="M700 165V220" stroke="#22D3EE" stroke-width="3"/>
+  <polygon points="694,215 706,215 700,226" fill="#22D3EE"/>
+  <g transform="translate(430,225)">
+    <rect width="540" height="70" rx="18" fill="#111827" stroke="#22D3EE"/>
+    <text x="270" y="43" font-size="23" fill="#F8FAFC">API Gateway + Express REST APIs</text>
+  </g>
+  <path d="M700 295V345" stroke="#22D3EE" stroke-width="3"/>
+  <g transform="translate(165,350)">
+    <rect width="270" height="90" rx="18" fill="#111827" stroke="#A78BFA"/>
+    <text x="135" y="38" font-size="20" fill="#F8FAFC">Authentication &amp; RBAC</text>
+    <text x="135" y="66" font-size="16" fill="#94A3B8">JWT • Refresh • MFA</text>
+  </g>
+  <g transform="translate(565,350)">
+    <rect width="270" height="90" rx="18" fill="#111827" stroke="#22D3EE"/>
+    <text x="135" y="38" font-size="20" fill="#F8FAFC">Business Services</text>
+    <text x="135" y="66" font-size="16" fill="#94A3B8">Users • Orders • Messaging</text>
+  </g>
+  <g transform="translate(965,350)">
+    <rect width="270" height="90" rx="18" fill="#111827" stroke="#F59E0B"/>
+    <text x="135" y="38" font-size="20" fill="#F8FAFC">Data &amp; Messaging</text>
+    <text x="135" y="66" font-size="16" fill="#94A3B8">MongoDB • Redis • Kafka</text>
+  </g>
+</g>
+</svg>
