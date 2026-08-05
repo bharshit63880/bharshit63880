@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bharshit63880&label=PROFILE%20VISITORS&color=FF0055&style=flat-square" alt="Profile visitors"/>
+
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-AVAILABLE-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
@@ -246,45 +246,7 @@ Selected projects demonstrating complete product development, backend architectu
 </td>
 <td valign="middle">
 
-## GITHUB ACTIVITY
 
-<img width="100%" src="./assets/neon-red-line.svg" alt=""/>
-
-A snapshot of my public GitHub activity and technology usage.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-/>
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-/>
-
-<br/>
-
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=bharshit63880&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<img width="100%" src="./assets/divider-cyberpunk.svg" alt=""/>
-
-<table>
-<tr>
-<td width="190" align="center" valign="middle">
-<img width="170" src="./assets/stickers/section-opportunities.png" alt="Open to work sticker"/>
-</td>
-<td valign="middle">
 
 ## OPEN TO OPPORTUNITIES
 
