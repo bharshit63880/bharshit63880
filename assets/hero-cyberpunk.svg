@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#02040A"/>
+    <stop offset=".42" stop-color="#070A1A"/>
+    <stop offset="1" stop-color="#16051E"/>
+  </linearGradient>
+  <radialGradient id="cyanGlow" cx="28%" cy="48%" r="48%">
+    <stop offset="0" stop-color="#00E5FF" stop-opacity=".26"/>
+    <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="pinkGlow" cx="78%" cy="45%" r="52%">
+    <stop offset="0" stop-color="#FF0055" stop-opacity=".33"/>
+    <stop offset="1" stop-color="#FF0055" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="cyanShadow"><feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#00E5FF" flood-opacity=".6"/></filter>
+  <filter id="pinkShadow"><feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#FF0055" flood-opacity=".55"/></filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#163144" stroke-width="1" opacity=".55"/>
+  </pattern>
+</defs>
+
+<rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+<rect width="1600" height="520" rx="30" fill="url(#cyanGlow)"/>
+<rect width="1600" height="520" rx="30" fill="url(#pinkGlow)"/>
+<rect y="350" width="1600" height="170" fill="url(#grid)" opacity=".45"/>
+
+<!-- skyline -->
+<g opacity=".5">
+  <rect x="60" y="270" width="75" height="110" fill="#070B14" stroke="#143247"/>
+  <rect x="145" y="235" width="120" height="145" fill="#070B14" stroke="#143247"/>
+  <rect x="280" y="295" width="92" height="85" fill="#070B14" stroke="#143247"/>
+  <rect x="1220" y="250" width="88" height="130" fill="#070B14" stroke="#3B1636"/>
+  <rect x="1320" y="205" width="130" height="175" fill="#070B14" stroke="#3B1636"/>
+  <rect x="1462" y="285" width="80" height="95" fill="#070B14" stroke="#3B1636"/>
+</g>
+
+<!-- laptop -->
+<g transform="translate(105,105)" filter="url(#cyanShadow)">
+  <rect width="470" height="280" rx="26" fill="#050913" stroke="#00E5FF" stroke-width="2"/>
+  <rect x="28" y="28" width="414" height="196" rx="15" fill="#0A1120" stroke="#17364A"/>
+  <g font-family="monospace" font-size="20">
+    <text x="52" y="70" fill="#00E5FF">const</text>
+    <text x="114" y="70" fill="#F4F7FB"> harshit = &#123;</text>
+    <text x="73" y="112" fill="#FF4D9D">role:</text>
+    <text x="145" y="112" fill="#F4F7FB">"Full-Stack Developer",</text>
+    <text x="73" y="152" fill="#B794F4">stack:</text>
+    <text x="155" y="152" fill="#F4F7FB">["React","Node","TS"],</text>
+    <text x="73" y="192" fill="#00E5FF">mission:</text>
+    <text x="170" y="192" fill="#F4F7FB">"Build. Ship. Scale."</text>
+  </g>
+  <rect x="162" y="247" width="146" height="14" rx="7" fill="#26384A"/>
+</g>
+
+<!-- title -->
+<g transform="translate(655,120)">
+  <text x="0" y="58" font-family="Arial, sans-serif" font-size="64" font-weight="900" fill="#F8FAFC">HARSHIT BHARDWAJ</text>
+  <text x="0" y="112" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#00E5FF">FULL-STACK DEVELOPER // REAL-TIME SYSTEMS</text>
+  <text x="0" y="170" font-family="Arial, sans-serif" font-size="22" fill="#CBD5E1">React • Node.js • TypeScript • MongoDB</text>
+  <text x="0" y="210" font-family="Arial, sans-serif" font-size="22" fill="#CBD5E1">Redis • Kafka • Docker • WebSockets</text>
+  <g transform="translate(0,255)" filter="url(#pinkShadow)">
+    <rect width="300" height="56" rx="10" fill="#FF0055"/>
+    <text x="150" y="37" text-anchor="middle" font-family="Arial" font-size="19" font-weight="900" fill="#FFFFFF">BUILD // SHIP // SCALE</text>
+  </g>
+</g>
+
+<!-- accents -->
+<g opacity=".8">
+  <circle cx="1510" cy="82" r="4" fill="#00E5FF"/>
+  <circle cx="1450" cy="430" r="4" fill="#FF0055"/>
+  <circle cx="620" cy="70" r="3" fill="#B794F4"/>
+  <path d="M1230 74h190" stroke="#FF0055" stroke-width="3" opacity=".55"/>
+  <path d="M1260 88h130" stroke="#00E5FF" stroke-width="2" opacity=".55"/>
+</g>
+</svg>

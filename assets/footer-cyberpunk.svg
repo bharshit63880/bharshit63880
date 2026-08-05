@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="240" viewBox="0 0 1600 240">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#02040A"/><stop offset=".5" stop-color="#0C0A1A"/><stop offset="1" stop-color="#02040A"/></linearGradient>
+  <filter id="glow"><feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#00E5FF" flood-opacity=".5"/></filter>
+</defs>
+<rect width="1600" height="240" fill="url(#bg)"/>
+<path d="M0 55H1600" stroke="#FF0055" stroke-width="2" opacity=".55"/>
+<path d="M0 64H1600" stroke="#00E5FF" stroke-width="1" opacity=".35"/>
+<text x="800" y="125" text-anchor="middle" font-family="Arial" font-size="42" font-weight="900" fill="#F8FAFC" filter="url(#glow)">LET'S BUILD SOMETHING MEANINGFUL.</text>
+<text x="800" y="170" text-anchor="middle" font-family="Arial" font-size="20" fill="#B794F4">FULL-STACK // BACKEND // FRONTEND // SOFTWARE ENGINEERING</text>
+<text x="800" y="207" text-anchor="middle" font-family="Arial" font-size="15" fill="#64748B">BUILDING ONE FEATURE, FIXING ONE BUG, AND LEARNING ONE SYSTEM AT A TIME.</text>
+</svg>
