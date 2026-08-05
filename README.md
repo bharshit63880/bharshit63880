@@ -140,7 +140,6 @@ Selected projects demonstrating complete product development, backend architectu
 - Dockerized service architecture
 
 <a href="https://github.com/bharshit63880/AllSpark"><img src="https://img.shields.io/badge/REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/VIEW_IN_PORTFOLIO-08111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +156,7 @@ Selected projects demonstrating complete product development, backend architectu
 - Audit trails and privacy-first architecture
 
 <a href="https://github.com/bharshit63880/SatyaShield"><img src="https://img.shields.io/badge/REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/VIEW_IN_PORTFOLIO-08111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://satya-shield-client.vercel.app/"><img src="https://img.shields.io/badge/LIVE_APPLICATION-08111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 
 </td>
 </tr>
@@ -195,7 +194,7 @@ Selected projects demonstrating complete product development, backend architectu
 - WebRTC audio-call support
 
 <a href="https://github.com/bharshit63880/PulseChat"><img src="https://img.shields.io/badge/REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/VIEW_IN_PORTFOLIO-08111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://pulsechat-web-rose.vercel.app/"><img src="https://img.shields.io/badge/LIVE_APPLICATION-08111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 
 </td>
 </tr>
@@ -216,7 +215,7 @@ Selected projects demonstrating complete product development, backend architectu
 - Responsive shopping experience
 
 <a href="https://github.com/bharshit63880/Sastify"><img src="https://img.shields.io/badge/REPOSITORY-EA580C?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/VIEW_IN_PORTFOLIO-08111F?style=for-the-badge&logo=vercel&logoColor=FF7A00"/></a>
+<a href="https://sastify-frontend.vercel.app/"><img src="https://img.shields.io/badge/LIVE_APPLICATION-08111F?style=for-the-badge&logo=vercel&logoColor=FF7A00"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -232,7 +231,7 @@ Selected projects demonstrating complete product development, backend architectu
 - Property management workflows
 - Future-ready recommendation architecture
 
-<a href="https://harshit-fullstack.vercel.app"><img src="https://img.shields.io/badge/VIEW_IN_PORTFOLIO-08111F?style=for-the-badge&logo=vercel&logoColor=60A5FA"/></a>
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-1E40AF?style=for-the-badge&logo=githubactions&logoColor=white" alt="RealStateX in development"/>
 
 </td>
 </tr>
@@ -259,12 +258,25 @@ A snapshot of my public GitHub activity and technology usage.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&hide_border=true&bg_color=02040A&title_color=00E5FF&icon_color=FF0055&text_color=CBD5E1&ring_color=FF0055" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&hide_border=true&bg_color=02040A&title_color=00E5FF&text_color=CBD5E1" alt="Most used languages"/>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharshit63880&theme=radical"
+  alt="GitHub profile contribution summary"
+/>
 
 <br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=bharshit63880&hide_border=true&background=02040A&ring=FF0055&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak"/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharshit63880&theme=radical"
+  alt="GitHub profile statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharshit63880&theme=radical"
+  alt="Most committed languages"
+/>
 
 </div>
 
