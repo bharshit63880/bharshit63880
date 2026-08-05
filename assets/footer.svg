@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="190" viewBox="0 0 1400 190">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#11193A"/><stop offset="1" stop-color="#050816"/></linearGradient></defs>
+<rect width="1400" height="190" fill="url(#bg)"/>
+<text x="700" y="74" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#F8FAFC">Let's build something meaningful.</text>
+<text x="700" y="116" text-anchor="middle" font-family="Arial" font-size="19" fill="#A78BFA">Full-Stack • Backend • Frontend • Software Engineering</text>
+<text x="700" y="154" text-anchor="middle" font-family="Arial" font-size="15" fill="#64748B">Building one feature, fixing one bug, and learning one system at a time.</text>
+</svg>
