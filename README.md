@@ -12,8 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bharshit63880&label=Profile%20Visitors&color=7C3AED&style=flat-square" alt="Profile visitors"/>
-<img src="https://img.shields.io/github/followers/bharshit63880?label=Followers&style=flat-square&color=2563EB" alt="GitHub followers"/>
+
 <img src="https://img.shields.io/badge/Open_to_Work-Available-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
