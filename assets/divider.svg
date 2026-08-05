@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30">
-<defs><linearGradient id="g"><stop stop-color="#8B5CF6" stop-opacity="0"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs>
-<path d="M70 15h1060" stroke="url(#g)" stroke-width="1"/><circle cx="600" cy="15" r="3" fill="#C084FC"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></circle>
-</svg>
