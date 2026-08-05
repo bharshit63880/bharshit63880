@@ -259,23 +259,20 @@ A snapshot of my public GitHub activity and technology usage.
 <div align="center">
 
 <img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharshit63880&theme=radical"
-  alt="GitHub profile contribution summary"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=bharshit63880&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+/>
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharshit63880&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
 />
 
 <br/>
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharshit63880&theme=radical"
-  alt="GitHub profile statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharshit63880&theme=radical"
-  alt="Most committed languages"
+width="70%"
+src="https://streak-stats.demolab.com?user=bharshit63880&theme=tokyonight&hide_border=true"
 />
 
 </div>
